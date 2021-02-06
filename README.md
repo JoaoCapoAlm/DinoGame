@@ -1,6 +1,14 @@
 # Dio Dino Game
-Dino game for Digital Innovation One Lesson, using only JS, HTML and CSS
+
+## Descrição
+Dino Game foi feito durante um curso da Digital Innovation One Lesson.
+<br />
+![badge](https://img.shields.io/badge/license-MIT-green)
+
+## Tecnologias
+- JavaScript
+- HTML
+- CSS
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md)
-file for details
+Este projeto está licenciado sob MIT Licence. Veja [LICENSE.md](LICENSE.md) para mais detalhes.
