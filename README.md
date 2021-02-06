@@ -1,4 +1,4 @@
-# Dio Dino Game
+# Dino Game
 
 ## Descrição
 Dino Game foi feito durante um curso da Digital Innovation One Lesson.
