@@ -3,7 +3,8 @@
     padding: 0;
 }
 
-body {
+html {
+    font-size: 10px;
     background-color: #fafafa;
 }
 
@@ -52,9 +53,14 @@ header, #gameOver {
 }
 
 header {
-    font-size: 20px
+    font-size: 2rem
 }
 
 #gameOver {
-    font-size: 40px;
+    font-size: 4rem;
+}
+
+.pontuation {
+    font-size: 2rem;
+    margin-left: 20%;
 }
